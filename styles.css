@@ -1,0 +1,487 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1440px;
+	 height: 3150px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #ColorFill1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1440px;
+	 height: 3150px;
+	 z-index:1;
+} 
+
+ #Rectangle1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1442px;
+	 height: 755px;
+	 z-index:2;
+} 
+
+ #Contact 
+{ 
+	 left: 488px; 
+	 top: 3109px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 12px;
+	 z-index:3;
+} 
+
+ #Press 
+{ 
+	 left: 577px; 
+	 top: 3109px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 12px;
+	 z-index:4;
+} 
+
+ #Investors 
+{ 
+	 left: 726px; 
+	 top: 3109px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 12px;
+	 z-index:5;
+} 
+
+ #TomberAppLLC 
+{ 
+	 left: 825px; 
+	 top: 3108px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 16px;
+	 z-index:6;
+} 
+
+ #Legal 
+{ 
+	 left: 652px; 
+	 top: 3108px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 16px;
+	 z-index:7;
+} 
+
+ #Seewhatpicturespeopl 
+{ 
+	 left: 686px; 
+	 top: 920px; 
+	 position: absolute; 
+	 width: 364px;
+	 height: 80px;
+	 z-index:8;
+} 
+
+ #Layer1 
+{ 
+	 left: 319px; 
+	 top: 622px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 663px;
+	 z-index:9;
+} 
+
+ #Layer3 
+{ 
+	 left: 346px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 478px;
+	 z-index:10;
+} 
+
+ #ImagineyoureinacafeW 
+{ 
+	 left: 686px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 395px;
+	 height: 92px;
+	 z-index:11;
+} 
+
+ #Rectangle2 
+{ 
+	 left: -91px; 
+	 top: 1447px; 
+	 position: absolute; 
+	 width: 1549px;
+	 height: 508px;
+	 z-index:12;
+} 
+
+ #Layer1copy 
+{ 
+	 left: 803px; 
+	 top: 1355px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 663px;
+	 z-index:13;
+} 
+
+ #Pivotyourlocationand 
+{ 
+	 left: 320px; 
+	 top: 1602px; 
+	 position: absolute; 
+	 width: 333px;
+	 height: 80px;
+	 z-index:14;
+} 
+
+ #CouldntmakeittoUltra 
+{ 
+	 left: 320px; 
+	 top: 1705px; 
+	 position: absolute; 
+	 width: 376px;
+	 height: 91px;
+	 z-index:15;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 763px; 
+	 top: 1953px; 
+	 position: absolute; 
+	 width: 403px;
+	 height: 102px;
+	 z-index:16;
+} 
+
+ #Layer4 
+{ 
+	 left: 830px; 
+	 top: 1446px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 477px;
+	 z-index:17;
+} 
+
+ #Shareyourworldcomple 
+{ 
+	 left: 686px; 
+	 top: 2260px; 
+	 position: absolute; 
+	 width: 423px;
+	 height: 80px;
+	 z-index:18;
+} 
+
+ #Havesomethingtoshare 
+{ 
+	 left: 685px; 
+	 top: 2362px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 92px;
+	 z-index:19;
+} 
+
+ #Layer1copy2 
+{ 
+	 left: 318px; 
+	 top: 2024px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 663px;
+	 z-index:20;
+} 
+
+ #Layer5 
+{ 
+	 left: 345px; 
+	 top: 2115px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 477px;
+	 z-index:21;
+} 
+
+ #Rectangle2copy 
+{ 
+	 left: -91px; 
+	 top: 2756px; 
+	 position: absolute; 
+	 width: 1549px;
+	 height: 323px;
+	 z-index:22;
+} 
+
+ #homescreen 
+{ 
+	 left: 717px; 
+	 top: 2545px; 
+	 position: absolute; 
+	 width: 402px;
+	 height: 605px;
+	 z-index:23;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 318px; 
+	 top: 2919px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 57px;
+	 z-index:24;
+} 
+
+ #GetNotifiedcopy 
+{ 
+	 left: 362px; 
+	 top: 2941px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 14px;
+	 z-index:25;
+} 
+
+ #ComingSoontoiOS 
+{ 
+	 left: 318px; 
+	 top: 2858px; 
+	 position: absolute; 
+	 width: 296px;
+	 height: 33px;
+	 z-index:26;
+} 
+
+ #Tombercopy 
+{ 
+	 left: 750px; 
+	 top: 2993px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:27;
+} 
+
+ #App 
+{ 
+	 left: 735px; 
+	 top: 2909px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:28;
+} 
+
+ #Shape1 
+{ 
+	 left: 756px; 
+	 top: 2922px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 52px;
+	 z-index:29;
+} 
+
+ #Rectangle2copy_0 
+{ 
+	 left: -91px; 
+	 top: 2756px; 
+	 position: absolute; 
+	 width: 1549px;
+	 height: 323px;
+	 z-index:30;
+} 
+
+ #homescreen_0 
+{ 
+	 left: 318px; 
+	 top: 2545px; 
+	 position: absolute; 
+	 width: 402px;
+	 height: 605px;
+	 z-index:31;
+} 
+
+ #RoundedRectangle1cop_0 
+{ 
+	 left: 769px; 
+	 top: 2919px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 57px;
+	 z-index:32;
+} 
+
+ #GetNotifiedcopy_0 
+{ 
+	 left: 813px; 
+	 top: 2941px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 14px;
+	 z-index:33;
+} 
+
+ #ComingSoontoiOS_0 
+{ 
+	 left: 769px; 
+	 top: 2858px; 
+	 position: absolute; 
+	 width: 296px;
+	 height: 33px;
+	 z-index:34;
+} 
+
+ #Tombercopy_0 
+{ 
+	 left: 351px; 
+	 top: 2993px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:35;
+} 
+
+ #App_0 
+{ 
+	 left: 336px; 
+	 top: 2909px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:36;
+} 
+
+ #Shape1_0 
+{ 
+	 left: 357px; 
+	 top: 2922px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 52px;
+	 z-index:37;
+} 
+
+ #Tomber 
+{ 
+	 left: 447px; 
+	 top: 2993px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 11px;
+	 z-index:38;
+} 
+
+ #Appcopy 
+{ 
+	 left: 432px; 
+	 top: 2909px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:39;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 453px; 
+	 top: 2922px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 52px;
+	 z-index:40;
+} 
+
+ #AnonymousLocationbas 
+{ 
+	 left: 649px; 
+	 top: 180px; 
+	 position: absolute; 
+	 width: 315px;
+	 height: 18px;
+	 z-index:41;
+} 
+
+ #tomber 
+{ 
+	 left: 649px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 209px;
+	 height: 45px;
+	 z-index:42;
+} 
+
+ #Shape1_1 
+{ 
+	 left: 494px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 195px;
+	 z-index:43;
+} 
+
+ #Seewhatpicturespeopl_0 
+{ 
+	 left: 335px; 
+	 top: 315px; 
+	 position: absolute; 
+	 width: 767px;
+	 height: 81px;
+	 z-index:44;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 561px; 
+	 top: 437px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 88px;
+	 z-index:45;
+} 
+
+ #ComingsoontoiOS 
+{ 
+	 left: 656px; 
+	 top: 534px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 15px;
+	 z-index:46;
+} 
+
+ #GetNotified 
+{ 
+	 left: 628px; 
+	 top: 471px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 21px;
+	 z-index:47;
+} 
